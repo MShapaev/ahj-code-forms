@@ -1,7 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/6bd1c94uttnglqds?svg=true)](https://ci.appveyor.com/project/vladvolkov71/ahj-code-forms)
-
-
-[Сcылка на GitHub Pages](https://vladvolkov71.github.io/ahj-code-forms/)
+[![Build status](https://ci.appveyor.com/api/projects/status/iut27g3ytj9jdg6q?svg=true)](https://ci.appveyor.com/project/MShapaev/ahj-code-forms)
 
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер.
